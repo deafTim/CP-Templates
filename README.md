@@ -1,4 +1,4 @@
 # CP-Templates
 
 ## Contest templates
-[Contest Templates](Contests Templates/)
+[Contest Templates](Contests Templates/Template CodeForces.py)
